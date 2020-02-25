@@ -1,0 +1,36 @@
+[
+  {
+    "model": "AUDI",
+    "price": 200,
+    "color": "BLACK",
+    "mileage": 30000,
+    "components": [
+      "AIR CONDITION",
+      "ABS",
+      "TRACTION CONTROL"
+    ]
+  },
+  {
+    "model": "FERRARI",
+    "price": 400,
+    "color": "RED",
+    "mileage": 10000,
+    "components": [
+      "AIR CONDITION",
+      "ABS",
+      "AIRBAG",
+      "TRACTION CONTROL"
+    ]
+  },
+  {
+    "model": "POLONEZ",
+    "price": 10,
+    "color": "GREY",
+    "mileage": 150000,
+    "components": [
+      "ABS",
+      "AIRBAG",
+      "ELECTRIC WINDOWS"
+    ]
+  }
+]

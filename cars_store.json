@@ -1,0 +1,74 @@
+[
+  {
+    "model": "AUDI",
+    "price": 200,
+    "color": "BLACK",
+    "mileage": 20000,
+    "components": [
+      "AIR CONDITION",
+      "ABS",
+      "TRACTION CONTROL"
+    ]
+  },
+  {
+    "model": "FERRARI",
+    "price": 400,
+    "color": "RED",
+    "mileage": 10000,
+    "components": [
+      "AIR CONDITION",
+      "ABS",
+      "AIRBAG",
+      "ELECTRIC WINDOWS"
+    ]
+  },
+  {
+    "model": "POLONEZ",
+    "price": 300,
+    "color": "RED",
+    "mileage": 10000,
+    "components": [
+      "AIR CONDITION",
+      "ABS",
+      "AIRBAG",
+      "ELECTRIC WINDOWS"
+    ]
+  },
+  {
+    "model": "FIAT",
+    "price": 50,
+    "color": "YELLOW",
+    "mileage": 5000,
+    "components": [
+      "IMMOBILIZER",
+      "ABS",
+      "ELECTRIC WINDOWS",
+      "CD"
+    ]
+  },
+  {
+    "model": "OPEL",
+    "price": 10,
+    "color": "GREY",
+    "mileage": 120000,
+    "components": [
+      "ELECTRIC MIRROR",
+      "SPARE WHEEL",
+      "POWER STEERING",
+      "CD"
+    ]
+  },
+  {
+    "model": "MERCEDES",
+    "price": 75,
+    "color": "BLACK",
+    "mileage": 65000,
+    "components": [
+      "IMMOBILIZER",
+      "ABS",
+      "TRACTION CONTROL",
+      "ELECTRIC WINDOWS"
+    ]
+  }
+]
+
